@@ -1,0 +1,3 @@
+[submodule "multichat-ui"]
+    path = multichat-ui
+    url = https://github.com/JoaoGSDC/multichat-ui.git
