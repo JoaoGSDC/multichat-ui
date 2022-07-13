@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/multichat-ui/static/js/main.fa191f1c.js",
+    "index.html": "/multichat-ui/index.html",
+    "main.fa191f1c.js.map": "/multichat-ui/static/js/main.fa191f1c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fa191f1c.js"
+  ]
+}
